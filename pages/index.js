@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Warm Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to the <a href="https://archivve.visualizevalue.com/">Visual Artchive!</a>
         </h1>
 
         <p className={styles.description}>
@@ -22,31 +22,31 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API All the best.</p>
+          <a href="https://ozolinsjanis.com/" className={styles.card}>
+            <h2>Janis Ozolins &rarr;</h2>
+            <p>Check out the website of Janis.</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Now Learn about Next.js in an interactive course with quizzes Hurrayy !</p>
+          <a href="https://archivve.visualizevalue.com/" className={styles.card}>
+            <h2>Visualise Value &rarr;</h2>
+            <p>Check out all the visuals created by Visualise Value</p>
           </a>
 
           <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+            href="https://vyshnav.xyz/visuals"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>Vyshnav &rarr;</h2>
+            <p>Check out all the visuals created by Vyshnav </p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://mounika.studio/"
             className={styles.card}
           >
             <h2>Deploy &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+            Check out all the visuals created by Mounika
             </p>
           </a>
         </div>
@@ -58,7 +58,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Powered by Kaleidoscope and {' '}
           <span className={styles.logo}>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>
