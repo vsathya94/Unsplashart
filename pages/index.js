@@ -29,7 +29,7 @@ export default function Home() {
 
           <a href="https://archivve.visualizevalue.com/" className={styles.card}>
             <h2>Visualise Value &rarr;</h2>
-            <p>Check out all the visuals created by Visualise Value</p>
+            <p>Check out all the visuals created by Visualise Value - curated by Satya </p>
           </a>
 
           <a
