@@ -11,9 +11,14 @@ export default function Home() {
     <div className={styles.container}>
       {/* Head section for metadata */}
       <Head>
-        <title>Your Name - Personal Website</title>
-        <meta name="description" content="Your lovely website description" />
-        <link rel="icon" href="/favicon.ico" />
+        <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <title>Main Page</title>
+       <!-- Add your CSS file or styles here -->
+       /* <title>Your Name - Personal Website</title> */
+       /*  <meta name="description" content="Your lovely website description" />  */
+       /*  <link rel="icon" href="/favicon.ico" /> */
+    
       </Head>
 
       {/* Main content */}
@@ -42,7 +47,14 @@ export default function Home() {
 
         {/* Subpages section */}
         <section className={styles.subpages}>
-          {/* Links to subpages */}
+          {
+            <nav>
+              <ul>
+              <li><a href="subpage1.html">Subpage 1</a></li>
+              <li><a href="subpage2.html">Subpage 2</a></li>
+            </ul>
+          </nav>
+          }
           <div className={styles.grid}>
             {/* ... (unchanged) */}
           </div>
