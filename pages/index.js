@@ -28,6 +28,11 @@ export default function Home() {
           <h1 className={styles.title}>
             Welcome to the <a href="https://saisatyanarayana.in/">Dutta's</a> Website!
           </h1>
+        
+          <meta charset="UTF-8">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>Main Page</title>
+        
           <p className={styles.description}>
             Add a catchy tagline or introduction here. Who are you?
           </p>
