@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Subpage 1</title>
+    <!-- Add your CSS file or styles here -->
+</head>
+<body>
+    <header>
+        <h1>Subpage 1</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Main Page</a></li>
+            <li><a href="subpage2.html">Subpage 2</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <p>This is the content of Subpage 1.</p>
+    </section>
+
+    <!-- Add your footer content here -->
+
+</body>
+</html>
