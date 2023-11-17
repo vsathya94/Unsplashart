@@ -35,7 +35,7 @@ export default function Home() {
               src="/dutta's pic.png" // Replace with the path to your image
               alt="Your Image"
               width={600} // Adjust the width as needed
-              height={400} // Adjust the height as needed
+              height={600} // Adjust the height as needed
             />
           </div>
         </section>
