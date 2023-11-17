@@ -21,15 +21,15 @@ export default function Home() {
         {/* Landing page section */}
         <section className={styles.landing}>
           <h1 className={styles.title}>
-            Welcome to the <a href="https://yourwebsite.com/">Your Name</a> Website!
+            Welcome to the <a href="https://yourwebsite.com/">Satya's</a> Website!
           </h1>
           <p className={styles.description}>
-            Add a catchy tagline or introduction here.
+            Add a catchy tagline or introduction here. Who are you?
           </p>
           {/* Text and image section */}
           <div className={styles.textImageSection}>
             <p>
-              Write about yourself, your interests, or anything you'd like to share.
+              Write about yourself, your interests, or anything you'd like to share. What values do you stand for?
             </p>
             <Image
               src="/your-image.jpg" // Replace with the path to your image
