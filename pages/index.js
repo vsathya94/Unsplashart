@@ -19,9 +19,8 @@ export default function Home() {
         {/* Landing page section */}
         <section className={styles.landing}>
           <h1 className={styles.title}>
-  Welcome to the {/* eslint-disable-next-line react/no-unescaped-entities */} <a href="https://yourwebsite.com/">Your Name</a> Website!
-</h1>
-
+            Welcome to the <a href="https://yourwebsite.com/">Your Name</a> Website!
+          </h1>
           <p className={styles.description}>
             Add a catchy tagline or introduction here.
           </p>
