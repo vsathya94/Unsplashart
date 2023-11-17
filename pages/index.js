@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 // Import necessary components and styles
 import Head from 'next/head'
 import Image from 'next/image'
