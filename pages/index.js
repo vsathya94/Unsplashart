@@ -21,7 +21,7 @@ export default function Home() {
         {/* Landing page section */}
         <section className={styles.landing}>
           <h1 className={styles.title}>
-            Welcome to the <a href="https://yourwebsite.com/">Satya's</a> Website!
+            Welcome to the <a href="https://saisatyanarayana.in/">Satya's</a> Website!
           </h1>
           <p className={styles.description}>
             Add a catchy tagline or introduction here. Who are you?
@@ -32,7 +32,7 @@ export default function Home() {
               Write about yourself, your interests, or anything you'd like to share. What values do you stand for?
             </p>
             <Image
-              src="/your-image.jpg" // Replace with the path to your image
+              src="https://www.w3schools.com/images/w3schools_green.jpg" // Replace with the path to your image
               alt="Your Image"
               width={600} // Adjust the width as needed
               height={400} // Adjust the height as needed
