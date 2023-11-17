@@ -42,25 +42,7 @@ export default function Home() {
         <section className={styles.subpages}>
           {/* Links to subpages */}
           <div className={styles.grid}>
-            <a href="/blog" className={styles.card}>
-              <h2>Blog &rarr;</h2>
-              <p>Explore my thoughts and writings.</p>
-            </a>
-
-            <a href="/art" className={styles.card}>
-              <h2>Art &rarr;</h2>
-              <p>Discover my artistic creations.</p>
-            </a>
-
-            <a href="/projects" className={styles.card}>
-              <h2>Projects &rarr;</h2>
-              <p>Check out my latest projects and works.</p>
-            </a>
-
-            <a href="/social-media" className={styles.card}>
-              <h2>Social Media &rarr;</h2>
-              <p>Connect with me on social platforms.</p>
-            </a>
+            {/* ... (unchanged) */}
           </div>
         </section>
       </main>
