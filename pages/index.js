@@ -1,5 +1,3 @@
-/* eslint-disable */
-
 // Import necessary components and styles
 import Head from 'next/head'
 import Image from 'next/image'
@@ -9,6 +7,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
+      {/* eslint-disable-next-line */}
       {/* Head section for metadata */}
       <Head>
         <title>Your Name - Personal Website</title>
