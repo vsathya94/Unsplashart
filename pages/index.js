@@ -21,7 +21,7 @@ export default function Home() {
         {/* Landing page section */}
         <section className={styles.landing}>
           <h1 className={styles.title}>
-            Welcome to the <a href="https://saisatyanarayana.in/">Satya's</a> Website!
+            Welcome to the <a href="https://saisatyanarayana.in/">Dutta's</a> Website!
           </h1>
           <p className={styles.description}>
             Add a catchy tagline or introduction here. Who are you?
